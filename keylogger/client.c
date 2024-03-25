@@ -12,7 +12,7 @@ typedef int socklen_t; // Define a custom type for socklen_t
 #endif
 
 #define SIZE 1024
-#define DEFAULT_PORT 1993
+#define DEFAULT_PORT 8080
 #define IP "127.0.0.1"
 
 void send_file(FILE *file, int sockfd)
