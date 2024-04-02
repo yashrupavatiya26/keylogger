@@ -3,7 +3,7 @@
 
 Hey, want to spy on someone, this project is for you.
 
-Just Kidding my project is soley for information and showcase of basic functionality of key-logger and RPC. 
+Just Kidding, Purpose of this project is to demonstarte the basic functionality of key-logger and RPC. 
 
 
 
